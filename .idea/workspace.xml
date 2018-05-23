@@ -1,406 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="77b065be-91c9-40a9-b97e-6aa5eabdd0db" name="Default" comment="add  fireFly">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/Face/[Coke]@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/Face/[NO]@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/Face/[OK]@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/Face/[Rose]@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/Face/[angry]@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/Face/[applause]@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/Face/[arrogance]@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/Face/[awkward]@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/Face/[bad]@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/Face/[beard]@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/Face/[bitter smile]@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/Face/[black line]@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/Face/[blank stare]@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/Face/[bye]@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/Face/[candle]@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/Face/[clouds]@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/Face/[crazy]@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/Face/[crying]@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/Face/[curse]@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/Face/[doubt]@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/Face/[eat cookies]@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/Face/[embarrassed]@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/Face/[explosion]@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/Face/[faint]@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/Face/[fist]@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/Face/[fistsalute]@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/Face/[froze]@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/Face/[gift]@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/Face/[gold digger]@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/Face/[grievance]@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/Face/[grimace]@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/Face/[grinning]@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/Face/[handshake]@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/Face/[hug]@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/Face/[hum]@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/Face/[ice cream]@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/Face/[ignore]@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/Face/[ill]@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/Face/[kiss]@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/Face/[laughing]@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/Face/[laughs]@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/Face/[like]@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/Face/[little devil]@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/Face/[love you]@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/Face/[love]@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/Face/[masks]@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/Face/[medicine]@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/Face/[miserable]@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/Face/[moon]@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/Face/[nosebleeds]@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/Face/[pervert]@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/Face/[popcorn]@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/Face/[rice]@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/Face/[sad1]@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/Face/[sad2]@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/Face/[scared1]@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/Face/[scared2]@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/Face/[seduce]@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/Face/[seriously]@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/Face/[shut up]@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/Face/[shy1]@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/Face/[shy2]@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/Face/[sleepy]@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/Face/[smile]@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/Face/[smoking]@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/Face/[speechless]@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/Face/[spit]@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/Face/[strong]@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/Face/[sun]@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/Face/[sunglasses]@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/Face/[surprised1]@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/Face/[surprised2]@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/Face/[sweat]@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/Face/[tease]@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/Face/[thanks]@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/Face/[umbrella]@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/Face/[victory]@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/Face/[watermelon]@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/Face/[weak]@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/Face/[wine]@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/Face/[work hard]@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/Face/[yawn]@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/Face/emojiSelected@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/Assets.xcassets/AppIcon-1.appiconset/114.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/Assets.xcassets/AppIcon-1.appiconset/120.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/Assets.xcassets/AppIcon-1.appiconset/180.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/Assets.xcassets/AppIcon-1.appiconset/29.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/Assets.xcassets/AppIcon-1.appiconset/57.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/Assets.xcassets/AppIcon-1.appiconset/58.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/Assets.xcassets/AppIcon-1.appiconset/80.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/Assets.xcassets/AppIcon-1.appiconset/87.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/Assets.xcassets/AppIcon.appiconset/114.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/Assets.xcassets/AppIcon.appiconset/120.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/Assets.xcassets/AppIcon.appiconset/180.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/Assets.xcassets/AppIcon.appiconset/29.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/Assets.xcassets/AppIcon.appiconset/57.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/Assets.xcassets/AppIcon.appiconset/58.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/Assets.xcassets/AppIcon.appiconset/80.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/Assets.xcassets/AppIcon.appiconset/87.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/Assets.xcassets/Chat/BubbleMyself.imageset/bg_show_chats_class_dialogue_pages_normal@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/Assets.xcassets/Chat/BubbleMyself.imageset/bg_show_chats_class_dialogue_pages_normal@3x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/Assets.xcassets/Chat/BubbleOthers.imageset/bg_show_chats_class_dialogue_pages_normal_other@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/Assets.xcassets/Chat/BubbleOthers.imageset/bg_show_chats_class_dialogue_pages_normal_other@3x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/Assets.xcassets/LaunchImage.launchimage/1242x2208@3x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/Assets.xcassets/LaunchImage.launchimage/750x1334.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/Assets.xcassets/LaunchImage.launchimage/Default-568h@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/Assets.xcassets/LaunchImage.launchimage/Default@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/Images.xcassets/Chat/BubbleMyself.imageset/bg_show_chats_class_dialogue_pages_normal@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/Images.xcassets/Chat/BubbleMyself.imageset/bg_show_chats_class_dialogue_pages_normal@3x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/Images.xcassets/Chat/BubbleOthers.imageset/bg_show_chats_class_dialogue_pages_normal_other@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/Images.xcassets/Chat/BubbleOthers.imageset/bg_show_chats_class_dialogue_pages_normal_other@3x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/Face/YueNiEmoji.plist" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/Controller/FFChatViewController.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/Controller/FFChatViewController.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/Controller/FFComplaintsListVC.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/Controller/FFComplaintsListVC.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/Controller/FFFriendSetViewController.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/Controller/FFFriendSetViewController.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/Model/FFEmotion.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/Model/FFEmotion.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/Model/FFFileInfo.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/Model/FFFileInfo.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/Model/FFMessage.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/Model/FFMessage.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/Model/FFMessageCellModel.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/Model/FFMessageCellModel.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/Model/FFMessageFrame.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/Model/FFMessageFrame.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/Model/FFShortVideo.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/Model/FFShortVideo.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/View/FFBaseMessageCell.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/View/FFBaseMessageCell.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/View/FFGroupFileTypeView.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/View/FFGroupFileTypeView.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/View/FFMessageBaseCell.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/View/FFMessageBaseCell.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/View/FFMessageCardCell.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/View/FFMessageCardCell.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/View/FFMessageFileCell.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/View/FFMessageFileCell.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/View/FFMessageGifCell.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/View/FFMessageGifCell.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/View/FFMessageImageCell.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/View/FFMessageImageCell.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/View/FFMessageImgGroupCell.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/View/FFMessageImgGroupCell.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/View/FFMessageLocationCell.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/View/FFMessageLocationCell.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/View/FFMessageTextCell.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/View/FFMessageTextCell.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/View/FFMessageTipCell.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/View/FFMessageTipCell.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/View/FFMessageUserCardCell.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/View/FFMessageUserCardCell.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/View/FFMessageVideoCell.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/View/FFMessageVideoCell.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/View/FFMessageVoiceCell.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/View/FFMessageVoiceCell.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/View/FFUserCardAlertView.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/View/FFUserCardAlertView.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Contacts/Controller/FFAddFriendsVC.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Contacts/Controller/FFAddFriendsVC.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Contacts/Controller/FFAddressListVC.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Contacts/Controller/FFAddressListVC.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Contacts/Controller/FFApplyFriendVC.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Contacts/Controller/FFApplyFriendVC.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Contacts/Controller/FFBackUpNameVC.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Contacts/Controller/FFBackUpNameVC.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Contacts/Controller/FFContactVC.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Contacts/Controller/FFContactVC.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Contacts/Controller/FFEditGroupNameVC.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Contacts/Controller/FFEditGroupNameVC.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Contacts/Controller/FFGroupChatListVC.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Contacts/Controller/FFGroupChatListVC.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Contacts/Controller/FFGroupMemberListVC.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Contacts/Controller/FFGroupMemberListVC.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Contacts/Controller/FFNewFriendsViewController.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Contacts/Controller/FFNewFriendsViewController.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Contacts/Controller/FFOtherUserInfoVC.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Contacts/Controller/FFOtherUserInfoVC.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Contacts/Model/FFContactsRequestItem.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Contacts/Model/FFContactsRequestItem.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Contacts/View/FFChatGroup.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Contacts/View/FFChatGroup.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Contacts/View/FFContactCell.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Contacts/View/FFContactCell.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Contacts/View/FFFriendCell.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Contacts/View/FFFriendCell.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Contacts/View/FFGroupHeadView.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Contacts/View/FFGroupHeadView.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Contacts/View/FFGroupListCell.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Contacts/View/FFGroupListCell.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Contacts/View/FFNewFriendsTableViewCell.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Contacts/View/FFNewFriendsTableViewCell.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Contacts/View/FFSearchContactCell.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Contacts/View/FFSearchContactCell.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Discover/FFDiscoverCell.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Discover/FFDiscoverCell.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Discover/FFDiscoverVC.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Discover/FFDiscoverVC.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Discover/FFNearbyPeopleListVC.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Discover/FFNearbyPeopleListVC.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Discover/FFNearbyVC.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Discover/FFNearbyVC.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/GestureLock/LockView/DDYCircleView.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/GestureLock/LockView/DDYCircleView.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/GestureLock/LockView/DDYGestureLockVC.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/GestureLock/LockView/DDYGestureLockVC.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/GestureLock/LockView/DDYLockHeader.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/GestureLock/LockView/DDYLockView.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/GestureLock/LockView/DDYLockView.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Login&amp;Register/Controller/FFBindingEmailVC.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Login&amp;Register/Controller/FFBindingEmailVC.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Login&amp;Register/Controller/FFBindingPhoneVC.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Login&amp;Register/Controller/FFBindingPhoneVC.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Login&amp;Register/Controller/FFCountryListViewController.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Login&amp;Register/Controller/FFCountryListViewController.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Login&amp;Register/Controller/FFCreatAccountViewController.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Login&amp;Register/Controller/FFCreatAccountViewController.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Login&amp;Register/Controller/FFForgotPasswordVC.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Login&amp;Register/Controller/FFForgotPasswordVC.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Login&amp;Register/Controller/FFLoginViewController.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Login&amp;Register/Controller/FFLoginViewController.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Login&amp;Register/Controller/FFMobileCountryCodeVC.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Login&amp;Register/Controller/FFMobileCountryCodeVC.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Login&amp;Register/Controller/FFSendMessageViewController.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Login&amp;Register/Controller/FFSendMessageViewController.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Login&amp;Register/Controller/FFSendMgsViewController.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Login&amp;Register/Controller/FFSendMgsViewController.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Login&amp;Register/Controller/FFSettingPasswordVC.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Login&amp;Register/Controller/FFSettingPasswordVC.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Login&amp;Register/Controller/FFSignUpVC.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Login&amp;Register/Controller/FFSignUpVC.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Login&amp;Register/Controller/FFSignUpViewController.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Login&amp;Register/Controller/FFSignUpViewController.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Login&amp;Register/Controller/FFUserLoginViewController.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Login&amp;Register/Controller/FFUserLoginViewController.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Login&amp;Register/Model/FFCountryListCell.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Login&amp;Register/Model/FFCountryListCell.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Login&amp;Register/Model/FFLocalUserInfo.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Login&amp;Register/Model/FFLocalUserInfo.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Login&amp;Register/Model/Foundation/LC_Keychain.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Login&amp;Register/Model/Foundation/LC_Keychain.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Login&amp;Register/Model/Foundation/LC_UDID.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Login&amp;Register/Model/Foundation/LC_UDID.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Login&amp;Register/WSCycle/WSIndexBanner.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Login&amp;Register/WSCycle/WSIndexBanner.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Login&amp;Register/WSCycle/WSPageView.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Login&amp;Register/WSCycle/WSPageView.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Me/Controller/FFBlackListVC.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Me/Controller/FFBlackListVC.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Me/Controller/FFChooseRegionVC.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Me/Controller/FFChooseRegionVC.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Me/Controller/FFEditUserInfoVC.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Me/Controller/FFEditUserInfoVC.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Me/Controller/FFLanguageVC.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Me/Controller/FFLanguageVC.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Me/Controller/FFMeVC.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Me/Controller/FFMeVC.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Me/Controller/FFSecurityDetailVC.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Me/Controller/FFSecurityDetailVC.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Me/Controller/FFSettingVC.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Me/Controller/FFSettingVC.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Me/View/FFExitAlert.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Me/View/FFExitAlert.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Me/View/FFMeBindingTipView.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Me/View/FFMeBindingTipView.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Me/View/FFMeHeader.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Me/View/FFMeHeader.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Model/FFEmotion.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Model/FFEmotion.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Model/FFFileInfo.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Model/FFFileInfo.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Model/FFMessage.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Model/FFMessage.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Model/FFMessageCellModel.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Model/FFMessageCellModel.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Model/FFMessageFrame.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Model/FFMessageFrame.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Model/FFShortVideo.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Model/FFShortVideo.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/NoNetworkSocial/FFMCManager.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/NoNetworkSocial/FFMCManager.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/NoNetworkSocial/FFMidAlertView.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/NoNetworkSocial/FFMidAlertView.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/NoNetworkSocial/FFUserPeer.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/NoNetworkSocial/FFUserPeer.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ThirdParty/BluetoothCore/Block/ActionSheetHelper.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ThirdParty/BluetoothCore/Block/ActionSheetHelper.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ThirdParty/BluetoothCore/Block/AlertHelper.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ThirdParty/BluetoothCore/Block/AlertHelper.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ThirdParty/BluetoothCore/Block/RIButtonItem.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ThirdParty/BluetoothCore/Block/RIButtonItem.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ThirdParty/BluetoothCore/Block/UIActionSheet+Blocks.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ThirdParty/BluetoothCore/Block/UIActionSheet+Blocks.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ThirdParty/BluetoothCore/Block/UIAlertView+Blocks.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ThirdParty/BluetoothCore/Block/UIAlertView+Blocks.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ThirdParty/BluetoothCore/Central/BLECentralManager.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ThirdParty/BluetoothCore/Central/BLECentralManager.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ThirdParty/BluetoothCore/Central/BLEConnector.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ThirdParty/BluetoothCore/Central/BLEConnector.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ThirdParty/BluetoothCore/Central/BLEDataPack.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ThirdParty/BluetoothCore/Central/BLEDataPack.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ThirdParty/BluetoothCore/Central/BLEDeviceInfo.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ThirdParty/BluetoothCore/Central/BLEDeviceInfo.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ThirdParty/BluetoothCore/Common/BLEConfigDefine.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ThirdParty/BluetoothCore/Controllers/BaseViewController.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ThirdParty/BluetoothCore/Controllers/BaseViewController.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ThirdParty/BluetoothCore/Controllers/BeCenterViewController.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ThirdParty/BluetoothCore/Controllers/BeCenterViewController.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ThirdParty/BluetoothCore/Controllers/BePeripheralViewController.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ThirdParty/BluetoothCore/Controllers/BePeripheralViewController.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ThirdParty/BluetoothCore/Controllers/MainViewController.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ThirdParty/BluetoothCore/Controllers/MainViewController.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ThirdParty/BluetoothCore/Models/UEBaseData.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ThirdParty/BluetoothCore/Models/UEBaseData.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ThirdParty/BluetoothCore/Models/UEReadDataPack.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ThirdParty/BluetoothCore/Models/UEReadDataPack.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ThirdParty/BluetoothCore/Peripheral/BLEPeripheralManager.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ThirdParty/BluetoothCore/Peripheral/BLEPeripheralManager.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ThirdParty/LockView/DDYCircleView.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ThirdParty/LockView/DDYCircleView.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ThirdParty/LockView/DDYGestureLockVC.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ThirdParty/LockView/DDYGestureLockVC.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ThirdParty/LockView/DDYLockHeader.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ThirdParty/LockView/DDYLockView.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ThirdParty/LockView/DDYLockView.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ThirdParty/Utils/AlbumCameraImage.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ThirdParty/Utils/AlbumCameraImage.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ThirdParty/Views/BleSelectView.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/ThirdParty/Views/BleSelectView.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Wallet/Account/AvatarImg.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Wallet/Account/AvatarImg.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Wallet/Account/NAAccountCell.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Wallet/Account/NAAccountCell.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Wallet/Account/NAAccountHeader.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Wallet/Account/NAAccountHeader.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Wallet/Account/NAGasDetailItem.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Wallet/Account/NAGasDetailItem.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Wallet/Account/NAGasItem.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Wallet/Account/NAGasItem.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Wallet/Account/NAHomeRightView.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Wallet/Account/NAHomeRightView.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Wallet/Account/NAPersonalDataBase.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Wallet/Account/NAPersonalDataBase.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Wallet/Account/NATModel.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Wallet/Account/NATModel.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Wallet/Account/NAUserModel.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Wallet/Account/NAUserModel.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Wallet/FFGasAlert.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Wallet/FFGasAlert.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Wallet/FFGestureHeader.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Wallet/FFGestureHeader.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Wallet/FFGestureLockVC.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Wallet/FFGestureLockVC.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Wallet/FFWalletBackupAlert.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Wallet/FFWalletBackupAlert.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Wallet/FFWalletDisclaimerAlert.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Wallet/FFWalletDisclaimerAlert.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Wallet/FFWalletVerifyView.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Wallet/FFWalletVerifyView.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Wallet/Model/NATransactionItem.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Wallet/Model/NATransactionItem.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Wallet/View/FFAccountManCell.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Wallet/View/FFAccountManCell.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Wallet/View/FFTransactionCell.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Wallet/View/FFTransactionCell.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Wallet/View/NAAccountManCell.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Wallet/View/NAAccountManCell.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Wallet/View/NATransactionCell.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Wallet/View/NATransactionCell.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Wallet/View/RDPPopTableView.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Wallet/View/RDPPopTableView.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Wallet/Wallet.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/Wallet/Wallet.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/WifiSocial/FFWCManager.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/WifiSocial/FFWCManager.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/WifiSocial/Networking/Connection.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/WifiSocial/Networking/Connection.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/WifiSocial/Networking/ConnectionDelegate.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/WifiSocial/Networking/Server.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/WifiSocial/Networking/Server.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/WifiSocial/Networking/ServerBrowser.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/WifiSocial/Networking/ServerBrowser.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/WifiSocial/Networking/ServerBrowserDelegate.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/ApplicationClasses/WifiSocial/Networking/ServerDelegate.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/Assets.xcassets/AppIcon-1.appiconset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/Assets.xcassets/AppIcon.appiconset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/Assets.xcassets/Chat/BubbleMyself.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/Assets.xcassets/Chat/BubbleOthers.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/Assets.xcassets/Chat/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/Assets.xcassets/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/Assets.xcassets/LaunchImage.launchimage/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/Images.xcassets/AppIcon.appiconset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/Images.xcassets/Chat/BubbleMyself.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/Images.xcassets/Chat/BubbleOthers.imageset/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/Images.xcassets/Chat/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/Images.xcassets/Contents.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/monet/monet/Images.xcassets/LaunchImage.launchimage/Contents.json" />
+    <list default="true" id="77b065be-91c9-40a9-b97e-6aa5eabdd0db" name="Default" comment="add new file">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -412,28 +13,8 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="DDYAudioChange.h" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/VoiceView/SoundTouch/DDYAudioChange.h">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-268">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DDYAudioChange.mm" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/VoiceView/SoundTouch/DDYAudioChange.mm">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-900">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DDYVoiceBottomView.h" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/VoiceView/VoiceBottomView/DDYVoiceBottomView.h">
+      <file leaf-file-name="FFChatManager.m" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/monet/monet/Utils/FFChatManager.m">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -442,18 +23,8 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DDYVoiceBottomView.m" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/VoiceView/VoiceBottomView/DDYVoiceBottomView.m">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-552">
-              <caret line="12" column="23" lean-forward="false" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DDYVoiceBox.h" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/VoiceView/VoiceBox/DDYVoiceBox.h">
+      <file leaf-file-name="FFEmotion.m" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/monet/monet/Utils/FFEmotion.m">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -462,8 +33,8 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DDYVoiceBox.m" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/VoiceView/VoiceBox/DDYVoiceBox.m">
+      <file leaf-file-name="FFEmotionManager.h" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/monet/monet/Utils/FFEmotionManager.h">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -472,8 +43,8 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DDYVoiceBoxVC.h" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/VoiceView/VoiceBox/DDYVoiceBoxVC.h">
+      <file leaf-file-name="FFEmotionManager.m" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/monet/monet/Utils/FFEmotionManager.m">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -482,8 +53,8 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DDYVoiceBoxVC.m" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/VoiceView/VoiceBox/DDYVoiceBoxVC.m">
+      <file leaf-file-name="FFFileManager.h" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/monet/monet/Utils/FFFileManager.h">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -492,8 +63,8 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DDYVoiceChangePlayCell.h" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/VoiceView/VoiceChangeView/DDYVoiceChangePlayCell.h">
+      <file leaf-file-name="FFFileManager.m" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/monet/monet/Utils/FFFileManager.m">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -502,8 +73,38 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DDYVoiceChangePlayCell.m" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/VoiceView/VoiceChangeView/DDYVoiceChangePlayCell.m">
+      <file leaf-file-name="LaunchScreen.strings" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/monet/monet/zh-Hans.lproj/LaunchScreen.strings">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Localizable.strings" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/monet/monet/zh-Hans.lproj/Localizable.strings">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.strings" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/monet/monet/zh-Hans.lproj/Main.strings">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FFXMPPManager.h" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/monet/monet/XMPPManager/FFXMPPManager.h">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -617,8 +218,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -638,17 +237,12 @@
               <item name="monet" type="462c0819:PsiDirectoryNode" />
               <item name="monet" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="MonetBlockchain_IOS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MonetBlockchain_IOS" type="462c0819:PsiDirectoryNode" />
-              <item name="monet" type="462c0819:PsiDirectoryNode" />
-              <item name="monet" type="462c0819:PsiDirectoryNode" />
-              <item name="ApplicationClasses" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -769,7 +363,8 @@
       <workItem from="1526527020000" duration="1445000" />
       <workItem from="1526541252019" duration="7370000" />
       <workItem from="1526871084143" duration="249000" />
-      <workItem from="1526953132252" duration="150000" />
+      <workItem from="1526953132252" duration="179000" />
+      <workItem from="1527041554412" duration="178000" />
     </task>
     <task id="LOCAL-00001" summary="add xcuserdata">
       <created>1526543552095</created>
@@ -813,11 +408,18 @@
       <option name="project" value="LOCAL" />
       <updated>1526871133800</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="add new file">
+      <created>1526953300344</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1526953300344</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9214000" />
+    <option name="totallyTimeSpent" value="9421000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="43" y="23" width="1397" height="877" extended-state="6" />
@@ -855,193 +457,14 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add xcuserdata" />
     <MESSAGE value="add  fireFly" />
-    <option name="LAST_COMMIT_MESSAGE" value="add  fireFly" />
+    <MESSAGE value="add new file" />
+    <option name="LAST_COMMIT_MESSAGE" value="add new file" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/Face/[masks]@2x.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/Face/[little devil]@2x.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/Face/[hug]@2x.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/Face/[explosion]@2x.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/Face/[embarrassed]@2x.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/Face/[eat cookies]@2x.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/Face/[doubt]@2x.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/Face/[curse]@2x.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/Face/[crazy]@2x.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/Face/[Coke]@2x.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/Face/[black line]@2x.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/Face/[bitter smile]@2x.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/Face/[beard]@2x.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/Face/[blank stare]@2x.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/Face/[bye]@2x.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/Face/[candle]@2x.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/Face/[clouds]@2x.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/Face/[angry]@2x.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/VoiceView/DDYVoice.bundle/aio_record_being_button@3x.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/VoiceView/DDYVoice.bundle/aio_record_cancel_button_press@2x.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/VoiceView/DDYVoice.bundle/aio_record_finish_button@3x.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/VoiceView/DDYVoice.bundle/aio_record_send_button_press@2x.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/VoiceView/DDYVoice.bundle/aio_voice_operate_delete_press@3x.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/VoiceView/DDYVoice.bundle/ChangeEffect5@3x.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/VoiceView/DDYVoice.bundle/ChangeVip.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/VoiceView/DDYVoice.bundle/PlaySendN@2x.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/VoiceView/DDYVoice.bundle/TalkDeleteN@3x.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/VoiceView/DDYVoice.bundle/TalkRecordN@3x.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/VoiceView/DDYVoice.bundle/TalkRecordIcon@3x.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/VoiceView/DDYVoice.bundle/TalkRecordH@3x.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/VoiceView/DDYVoice.bundle/TalkOperateH@3x.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/VoiceView/DDYVoice.bundle/TalkListenN@3x.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/VoiceView/DDYVoiceChange.bundle/effect1@3x.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/VoiceView/DDYVoiceChange.bundle/activity@2x.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/VoiceView/DDYVoiceChange.bundle/effect2@3x.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/VoiceView/DDYVoiceChange.bundle/effect5@3x.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/VoiceView/DDYVoiceChange.bundle/effectP@3x.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -1069,7 +492,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/VoiceView/SoundTouch/DDYAudioChange.h">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-268">
+        <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
@@ -1077,7 +500,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/VoiceView/SoundTouch/DDYAudioChange.mm">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-900">
+        <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
@@ -1093,7 +516,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/VoiceView/VoiceBottomView/DDYVoiceBottomView.m">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-552">
+        <state relative-caret-position="180">
           <caret line="12" column="23" lean-forward="false" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
           <folding />
         </state>
@@ -1140,6 +563,285 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/VoiceView/VoiceChangeView/DDYVoiceChangePlayCell.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/monet/monet/Assets.xcassets/AppIcon.appiconset/29.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/monet/monet/Assets.xcassets/AppIcon.appiconset/57.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/monet/monet/Assets.xcassets/AppIcon.appiconset/58.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/monet/monet.xcodeproj/project.pbxproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/monet/monet.xcodeproj/xcuserdata/lingtuan.xcuserdatad/xcschemes/FireFly.xcscheme">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/monet/monet.xcodeproj/xcuserdata/lingtuan.xcuserdatad/xcschemes/xcschememanagement.plist">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/monet/monet.xcodeproj/xcuserdata/lingtuan.xcuserdatad/xcdebugger/Breakpoints_v2.xcbkptlist">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/monet/monet.xcodeproj/project.xcworkspace/contents.xcworkspacedata">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/monet/monet/Info.plist">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/monet/monet/XMPPManager/FFXMPPReconnect.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/monet/monet/XMPPManager/FFXMPPReconnect.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/monet/monet/XMPPManager/FFXMPPManager.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/monet/monet/main.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/monet/monet/System/FFAppDelegate.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/monet/monet/System/FFAppDelegate.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/monet/monet/System/FFNavigationController.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/monet/monet/System/FFNavigationController.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/monet/monet/System/FFTabBar.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/monet/monet/System/FFTabBar.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/monet/monet/System/FFTabBarController.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/monet/monet/System/FFTabBarController.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/monet/monet/System/FFUpdateAlert.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/monet/monet/System/FFUpdateAlert.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/monet/monet/Utils/FFAudioManager.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/monet/monet/Utils/FFAudioManager.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/monet/monet/Utils/FFChatManager.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/monet/monet/Utils/FFChatManager.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/monet/monet/Utils/FFEmotion.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/monet/monet/Utils/FFEmotionManager.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/monet/monet/Utils/FFEmotionManager.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/monet/monet/Utils/FFFileManager.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/monet/monet/Utils/FFFileManager.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/monet/monet/zh-Hans.lproj/LaunchScreen.strings">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/monet/monet/zh-Hans.lproj/Localizable.strings">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/monet/monet/zh-Hans.lproj/Main.strings">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/monet/monet/XMPPManager/FFXMPPManager.h">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
