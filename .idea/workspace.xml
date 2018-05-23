@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="77b065be-91c9-40a9-b97e-6aa5eabdd0db" name="Default" comment="add new file">
+    <list default="true" id="77b065be-91c9-40a9-b97e-6aa5eabdd0db" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/monet/monet/Assets.xcassets/LaunchImage.launchimage/1242x2208@3x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/monet/monet/Assets.xcassets/LaunchImage.launchimage/750x1334.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/monet/monet/Assets.xcassets/LaunchImage.launchimage/Contents.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/monet/monet/Assets.xcassets/LaunchImage.launchimage/Default-568h@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/monet/monet/Assets.xcassets/LaunchImage.launchimage/Default@2x.png" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,15 +18,8 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="bg_show_chats_class_dialogue_pages_normal@2x.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/monet/monet/Images.xcassets/Chat/BubbleMyself.imageset/bg_show_chats_class_dialogue_pages_normal@2x.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Contents.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/monet/monet/Images.xcassets/Chat/BubbleMyself.imageset/Contents.json">
+      <file leaf-file-name="FFShortVideo.h" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/monet/monet/ApplicationClasses/Model/FFShortVideo.h">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -30,8 +28,8 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Contents.json" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/monet/monet/Images.xcassets/AppIcon.appiconset/Contents.json">
+      <file leaf-file-name="FFShortVideo.m" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/monet/monet/ApplicationClasses/Model/FFShortVideo.m">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -40,15 +38,8 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="bg_show_chats_class_dialogue_pages_normal@3x.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/monet/monet/Images.xcassets/Chat/BubbleMyself.imageset/bg_show_chats_class_dialogue_pages_normal@3x.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FFUpdateAlert.m" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/monet/monet/System/FFUpdateAlert.m">
+      <file leaf-file-name="FFExitAlert.h" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/monet/monet/ApplicationClasses/Me/View/FFExitAlert.h">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -57,8 +48,8 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Contents.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/monet/monet/Images.xcassets/Contents.json">
+      <file leaf-file-name="FFMeBindingTipView.h" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/monet/monet/ApplicationClasses/Me/View/FFMeBindingTipView.h">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -67,8 +58,8 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Contents.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/monet/monet/Images.xcassets/LaunchImage.launchimage/Contents.json">
+      <file leaf-file-name="FFMeBindingTipView.m" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/monet/monet/ApplicationClasses/Me/View/FFMeBindingTipView.m">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -77,8 +68,8 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Contents.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/monet/monet/Images.xcassets/Chat/Contents.json">
+      <file leaf-file-name="FFMeHeader.h" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/monet/monet/ApplicationClasses/Me/View/FFMeHeader.h">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -87,17 +78,43 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="bg_show_chats_class_dialogue_pages_normal_other@2x.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/monet/monet/Images.xcassets/Chat/BubbleOthers.imageset/bg_show_chats_class_dialogue_pages_normal_other@2x.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
+      <file leaf-file-name="FFBlackListVC.m" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/monet/monet/ApplicationClasses/Me/Controller/FFBlackListVC.m">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="bg_show_chats_class_dialogue_pages_normal_other@3x.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/monet/monet/Images.xcassets/Chat/BubbleOthers.imageset/bg_show_chats_class_dialogue_pages_normal_other@3x.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
+      <file leaf-file-name="FFChooseRegionVC.m" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/monet/monet/ApplicationClasses/Me/Controller/FFChooseRegionVC.m">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FFEditUserInfoVC.h" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/monet/monet/ApplicationClasses/Me/Controller/FFEditUserInfoVC.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FFLanguageVC.h" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/monet/monet/ApplicationClasses/Me/Controller/FFLanguageVC.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
           </provider>
         </entry>
       </file>
@@ -341,7 +358,7 @@
       <workItem from="1526541252019" duration="7370000" />
       <workItem from="1526871084143" duration="249000" />
       <workItem from="1526953132252" duration="179000" />
-      <workItem from="1527041554412" duration="234000" />
+      <workItem from="1527041554412" duration="1734000" />
     </task>
     <task id="LOCAL-00001" summary="add xcuserdata">
       <created>1526543552095</created>
@@ -399,11 +416,18 @@
       <option name="project" value="LOCAL" />
       <updated>1527041736320</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="add new file">
+      <created>1527041790973</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1527041790973</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9477000" />
+    <option name="totallyTimeSpent" value="10977000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="43" y="23" width="1397" height="877" extended-state="6" />
@@ -415,7 +439,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32938075" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32806325" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32806325" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29446495" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -449,7 +473,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/VoiceView/VoiceBox/DDYVoiceBox.h">
+    <entry file="file://$PROJECT_DIR$/monet/monet/ApplicationClasses/ThirdParty/LockView/DDYGestureLockVC.h">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -457,7 +481,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/VoiceView/VoiceBox/DDYVoiceBox.m">
+    <entry file="file://$PROJECT_DIR$/monet/monet/ApplicationClasses/ThirdParty/LockView/DDYCircleView.m">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -465,7 +489,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/VoiceView/VoiceBox/DDYVoiceBoxVC.h">
+    <entry file="file://$PROJECT_DIR$/monet/monet/ApplicationClasses/ThirdParty/LockView/DDYCircleView.h">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -473,7 +497,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/VoiceView/VoiceBox/DDYVoiceBoxVC.m">
+    <entry file="file://$PROJECT_DIR$/monet/monet/ApplicationClasses/ThirdParty/BluetoothCore/Peripheral/BLEPeripheralManager.m">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -481,7 +505,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/VoiceView/VoiceChangeView/DDYVoiceChangePlayCell.h">
+    <entry file="file://$PROJECT_DIR$/monet/monet/ApplicationClasses/ThirdParty/BluetoothCore/Peripheral/BLEPeripheralManager.h">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -489,7 +513,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/VoiceView/VoiceChangeView/DDYVoiceChangePlayCell.m">
+    <entry file="file://$PROJECT_DIR$/monet/monet/ApplicationClasses/ThirdParty/BluetoothCore/Models/UEBaseData.h">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -497,22 +521,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/monet/monet/Assets.xcassets/AppIcon.appiconset/29.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/monet/monet/Assets.xcassets/AppIcon.appiconset/57.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/monet/monet/Assets.xcassets/AppIcon.appiconset/58.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/monet/monet.xcodeproj/project.pbxproj">
+    <entry file="file://$PROJECT_DIR$/monet/monet/ApplicationClasses/ThirdParty/BluetoothCore/Models/UEBaseData.m">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -520,7 +529,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/monet/monet.xcodeproj/xcuserdata/lingtuan.xcuserdatad/xcschemes/FireFly.xcscheme">
+    <entry file="file://$PROJECT_DIR$/monet/monet/ApplicationClasses/ThirdParty/BluetoothCore/Models/UEReadDataPack.h">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -528,7 +537,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/monet/monet.xcodeproj/xcuserdata/lingtuan.xcuserdatad/xcschemes/xcschememanagement.plist">
+    <entry file="file://$PROJECT_DIR$/monet/monet/ApplicationClasses/ThirdParty/BluetoothCore/Models/UEReadDataPack.m">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -536,7 +545,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/monet/monet.xcodeproj/xcuserdata/lingtuan.xcuserdatad/xcdebugger/Breakpoints_v2.xcbkptlist">
+    <entry file="file://$PROJECT_DIR$/monet/monet/ApplicationClasses/ThirdParty/BluetoothCore/Controllers/BaseViewController.h">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -544,7 +553,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/monet/monet.xcodeproj/project.xcworkspace/contents.xcworkspacedata">
+    <entry file="file://$PROJECT_DIR$/monet/monet/ApplicationClasses/ThirdParty/BluetoothCore/Controllers/BaseViewController.m">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -552,7 +561,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/monet/monet/Info.plist">
+    <entry file="file://$PROJECT_DIR$/monet/monet/ApplicationClasses/ThirdParty/BluetoothCore/Controllers/BeCenterViewController.h">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -560,7 +569,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/monet/monet/XMPPManager/FFXMPPReconnect.m">
+    <entry file="file://$PROJECT_DIR$/monet/monet/ApplicationClasses/ThirdParty/BluetoothCore/Controllers/BeCenterViewController.m">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -568,7 +577,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/monet/monet/XMPPManager/FFXMPPReconnect.h">
+    <entry file="file://$PROJECT_DIR$/monet/monet/ApplicationClasses/ThirdParty/BluetoothCore/Controllers/BePeripheralViewController.h">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -576,7 +585,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/monet/monet/XMPPManager/FFXMPPManager.m">
+    <entry file="file://$PROJECT_DIR$/monet/monet/ApplicationClasses/ThirdParty/BluetoothCore/Controllers/BePeripheralViewController.m">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -584,7 +593,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/monet/monet/main.m">
+    <entry file="file://$PROJECT_DIR$/monet/monet/ApplicationClasses/ThirdParty/BluetoothCore/Controllers/MainViewController.h">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -592,7 +601,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/monet/monet/Utils/FFAudioManager.h">
+    <entry file="file://$PROJECT_DIR$/monet/monet/ApplicationClasses/ThirdParty/BluetoothCore/Controllers/MainViewController.m">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -600,7 +609,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/monet/monet/Utils/FFAudioManager.m">
+    <entry file="file://$PROJECT_DIR$/monet/monet/ApplicationClasses/ThirdParty/BluetoothCore/Common/BLEConfigDefine.h">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -608,7 +617,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/monet/monet/Utils/FFChatManager.h">
+    <entry file="file://$PROJECT_DIR$/monet/monet/ApplicationClasses/ThirdParty/BluetoothCore/Central/BLECentralManager.h">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -616,7 +625,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/monet/monet/Utils/FFChatManager.m">
+    <entry file="file://$PROJECT_DIR$/monet/monet/ApplicationClasses/ThirdParty/BluetoothCore/Central/BLEConnector.h">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -624,7 +633,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/monet/monet/Utils/FFEmotion.m">
+    <entry file="file://$PROJECT_DIR$/monet/monet/ApplicationClasses/ThirdParty/BluetoothCore/Central/BLEConnector.m">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -632,7 +641,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/monet/monet/Utils/FFEmotionManager.h">
+    <entry file="file://$PROJECT_DIR$/monet/monet/ApplicationClasses/ThirdParty/BluetoothCore/Central/BLEDataPack.m">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -640,7 +649,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/monet/monet/Utils/FFEmotionManager.m">
+    <entry file="file://$PROJECT_DIR$/monet/monet/ApplicationClasses/ThirdParty/BluetoothCore/Block/ActionSheetHelper.h">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -648,7 +657,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/monet/monet/Utils/FFFileManager.h">
+    <entry file="file://$PROJECT_DIR$/monet/monet/ApplicationClasses/ThirdParty/BluetoothCore/Block/AlertHelper.m">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -656,7 +665,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/monet/monet/Utils/FFFileManager.m">
+    <entry file="file://$PROJECT_DIR$/monet/monet/ApplicationClasses/ThirdParty/BluetoothCore/Block/RIButtonItem.m">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -664,7 +673,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/monet/monet/zh-Hans.lproj/LaunchScreen.strings">
+    <entry file="file://$PROJECT_DIR$/monet/monet/ApplicationClasses/ThirdParty/BluetoothCore/Block/UIActionSheet+Blocks.h">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -672,7 +681,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/monet/monet/zh-Hans.lproj/Localizable.strings">
+    <entry file="file://$PROJECT_DIR$/monet/monet/ApplicationClasses/ThirdParty/BluetoothCore/Block/UIActionSheet+Blocks.m">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -680,7 +689,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/monet/monet/zh-Hans.lproj/Main.strings">
+    <entry file="file://$PROJECT_DIR$/monet/monet/ApplicationClasses/ThirdParty/BluetoothCore/Block/UIAlertView+Blocks.h">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -688,7 +697,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/monet/monet/XMPPManager/FFXMPPManager.h">
+    <entry file="file://$PROJECT_DIR$/monet/monet/ApplicationClasses/ThirdParty/BluetoothCore/Block/UIAlertView+Blocks.m">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -696,7 +705,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/monet/monet/System/FFAppDelegate.h">
+    <entry file="file://$PROJECT_DIR$/monet/monet/ApplicationClasses/NoNetworkSocial/FFUserPeer.h">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -704,7 +713,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/monet/monet/System/FFAppDelegate.m">
+    <entry file="file://$PROJECT_DIR$/monet/monet/ApplicationClasses/NoNetworkSocial/FFUserPeer.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="39" column="0" lean-forward="true" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/monet/monet/ApplicationClasses/NoNetworkSocial/FFMidAlertView.m">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -712,7 +729,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/monet/monet/System/FFNavigationController.h">
+    <entry file="file://$PROJECT_DIR$/monet/monet/ApplicationClasses/NoNetworkSocial/FFMidAlertView.h">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -720,7 +737,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/monet/monet/System/FFNavigationController.m">
+    <entry file="file://$PROJECT_DIR$/monet/monet/ApplicationClasses/NoNetworkSocial/FFMCManager.m">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -728,7 +745,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/monet/monet/System/FFTabBar.h">
+    <entry file="file://$PROJECT_DIR$/monet/monet/ApplicationClasses/NoNetworkSocial/FFMCManager.h">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -736,7 +753,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/monet/monet/System/FFTabBar.m">
+    <entry file="file://$PROJECT_DIR$/monet/monet/ApplicationClasses/Model/FFEmotion.m">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -744,7 +761,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/monet/monet/System/FFTabBarController.h">
+    <entry file="file://$PROJECT_DIR$/monet/monet/ApplicationClasses/Model/FFFileInfo.h">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -752,7 +769,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/monet/monet/System/FFTabBarController.m">
+    <entry file="file://$PROJECT_DIR$/monet/monet/ApplicationClasses/Model/FFFileInfo.m">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -760,7 +777,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/monet/monet/System/FFUpdateAlert.h">
+    <entry file="file://$PROJECT_DIR$/monet/monet/ApplicationClasses/Model/FFMessage.m">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -768,7 +785,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/monet/monet/System/FFUpdateAlert.m">
+    <entry file="file://$PROJECT_DIR$/monet/monet/ApplicationClasses/Model/FFMessageCellModel.h">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -776,7 +793,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/monet/monet/Images.xcassets/Contents.json">
+    <entry file="file://$PROJECT_DIR$/monet/monet/ApplicationClasses/Model/FFMessageFrame.h">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -784,7 +801,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/monet/monet/Images.xcassets/LaunchImage.launchimage/Contents.json">
+    <entry file="file://$PROJECT_DIR$/monet/monet/ApplicationClasses/Model/FFShortVideo.h">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -792,7 +809,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/monet/monet/Images.xcassets/Chat/Contents.json">
+    <entry file="file://$PROJECT_DIR$/monet/monet/ApplicationClasses/Model/FFShortVideo.m">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -800,27 +817,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/monet/monet/Images.xcassets/Chat/BubbleOthers.imageset/bg_show_chats_class_dialogue_pages_normal_other@2x.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/monet/monet/Images.xcassets/Chat/BubbleOthers.imageset/bg_show_chats_class_dialogue_pages_normal_other@3x.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/monet/monet/Images.xcassets/Chat/BubbleMyself.imageset/bg_show_chats_class_dialogue_pages_normal@2x.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/monet/monet/Images.xcassets/Chat/BubbleMyself.imageset/bg_show_chats_class_dialogue_pages_normal@3x.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/monet/monet/Images.xcassets/Chat/BubbleMyself.imageset/Contents.json">
+    <entry file="file://$PROJECT_DIR$/monet/monet/ApplicationClasses/Me/View/FFExitAlert.h">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -828,7 +825,55 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/monet/monet/Images.xcassets/AppIcon.appiconset/Contents.json">
+    <entry file="file://$PROJECT_DIR$/monet/monet/ApplicationClasses/Me/View/FFMeBindingTipView.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/monet/monet/ApplicationClasses/Me/View/FFMeBindingTipView.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/monet/monet/ApplicationClasses/Me/View/FFMeHeader.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/monet/monet/ApplicationClasses/Me/Controller/FFBlackListVC.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/monet/monet/ApplicationClasses/Me/Controller/FFChooseRegionVC.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/monet/monet/ApplicationClasses/Me/Controller/FFEditUserInfoVC.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/monet/monet/ApplicationClasses/Me/Controller/FFLanguageVC.h">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
