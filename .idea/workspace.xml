@@ -13,8 +13,15 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="FFChatManager.m" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/monet/monet/Utils/FFChatManager.m">
+      <file leaf-file-name="bg_show_chats_class_dialogue_pages_normal@2x.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/monet/monet/Images.xcassets/Chat/BubbleMyself.imageset/bg_show_chats_class_dialogue_pages_normal@2x.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Contents.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/monet/monet/Images.xcassets/Chat/BubbleMyself.imageset/Contents.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -23,8 +30,8 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FFEmotion.m" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/monet/monet/Utils/FFEmotion.m">
+      <file leaf-file-name="Contents.json" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/monet/monet/Images.xcassets/AppIcon.appiconset/Contents.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -33,8 +40,15 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FFEmotionManager.h" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/monet/monet/Utils/FFEmotionManager.h">
+      <file leaf-file-name="bg_show_chats_class_dialogue_pages_normal@3x.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/monet/monet/Images.xcassets/Chat/BubbleMyself.imageset/bg_show_chats_class_dialogue_pages_normal@3x.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FFUpdateAlert.m" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/monet/monet/System/FFUpdateAlert.m">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -43,8 +57,8 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FFEmotionManager.m" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/monet/monet/Utils/FFEmotionManager.m">
+      <file leaf-file-name="Contents.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/monet/monet/Images.xcassets/Contents.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -53,8 +67,8 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FFFileManager.h" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/monet/monet/Utils/FFFileManager.h">
+      <file leaf-file-name="Contents.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/monet/monet/Images.xcassets/LaunchImage.launchimage/Contents.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -63,8 +77,8 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FFFileManager.m" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/monet/monet/Utils/FFFileManager.m">
+      <file leaf-file-name="Contents.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/monet/monet/Images.xcassets/Chat/Contents.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -73,43 +87,17 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LaunchScreen.strings" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/monet/monet/zh-Hans.lproj/LaunchScreen.strings">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
+      <file leaf-file-name="bg_show_chats_class_dialogue_pages_normal_other@2x.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/monet/monet/Images.xcassets/Chat/BubbleOthers.imageset/bg_show_chats_class_dialogue_pages_normal_other@2x.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Localizable.strings" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/monet/monet/zh-Hans.lproj/Localizable.strings">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Main.strings" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/monet/monet/zh-Hans.lproj/Main.strings">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FFXMPPManager.h" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/monet/monet/XMPPManager/FFXMPPManager.h">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
+      <file leaf-file-name="bg_show_chats_class_dialogue_pages_normal_other@3x.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/monet/monet/Images.xcassets/Chat/BubbleOthers.imageset/bg_show_chats_class_dialogue_pages_normal_other@3x.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
           </provider>
         </entry>
       </file>
@@ -225,17 +213,6 @@
             <path>
               <item name="MonetBlockchain_IOS" type="b2602c69:ProjectViewProjectNode" />
               <item name="MonetBlockchain_IOS" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MonetBlockchain_IOS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MonetBlockchain_IOS" type="462c0819:PsiDirectoryNode" />
-              <item name="monet" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MonetBlockchain_IOS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MonetBlockchain_IOS" type="462c0819:PsiDirectoryNode" />
-              <item name="monet" type="462c0819:PsiDirectoryNode" />
-              <item name="monet" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -364,7 +341,7 @@
       <workItem from="1526541252019" duration="7370000" />
       <workItem from="1526871084143" duration="249000" />
       <workItem from="1526953132252" duration="179000" />
-      <workItem from="1527041554412" duration="178000" />
+      <workItem from="1527041554412" duration="234000" />
     </task>
     <task id="LOCAL-00001" summary="add xcuserdata">
       <created>1526543552095</created>
@@ -415,11 +392,18 @@
       <option name="project" value="LOCAL" />
       <updated>1526953300344</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="add new file">
+      <created>1527041736320</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1527041736320</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9421000" />
+    <option name="totallyTimeSpent" value="9477000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="43" y="23" width="1397" height="877" extended-state="6" />
@@ -465,63 +449,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/VoiceView/DDYVoiceChange.bundle/effectP@3x.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/VoiceView/DDYVoiceChange.bundle/effectS@3x.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/VoiceView/DDYVoiceChange.bundle/icon@3x.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/VoiceView/DDYVoiceChange.bundle/textSelect@3x.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/VoiceView/DDYVoiceChange.bundle/vip@2x.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/VoiceView/SoundTouch/DDYAudioChange.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/VoiceView/SoundTouch/DDYAudioChange.mm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/VoiceView/VoiceBottomView/DDYVoiceBottomView.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/VoiceView/VoiceBottomView/DDYVoiceBottomView.m">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="23" lean-forward="false" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/monet/monet/ApplicationClasses/ChatUI/ChatBox/VoiceView/VoiceBox/DDYVoiceBox.h">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -665,86 +592,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/monet/monet/System/FFAppDelegate.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/monet/monet/System/FFAppDelegate.m">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/monet/monet/System/FFNavigationController.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/monet/monet/System/FFNavigationController.m">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/monet/monet/System/FFTabBar.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/monet/monet/System/FFTabBar.m">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/monet/monet/System/FFTabBarController.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/monet/monet/System/FFTabBarController.m">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/monet/monet/System/FFUpdateAlert.m">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/monet/monet/System/FFUpdateAlert.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/monet/monet/Utils/FFAudioManager.h">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -842,6 +689,146 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/monet/monet/XMPPManager/FFXMPPManager.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/monet/monet/System/FFAppDelegate.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/monet/monet/System/FFAppDelegate.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/monet/monet/System/FFNavigationController.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/monet/monet/System/FFNavigationController.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/monet/monet/System/FFTabBar.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/monet/monet/System/FFTabBar.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/monet/monet/System/FFTabBarController.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/monet/monet/System/FFTabBarController.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/monet/monet/System/FFUpdateAlert.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/monet/monet/System/FFUpdateAlert.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/monet/monet/Images.xcassets/Contents.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/monet/monet/Images.xcassets/LaunchImage.launchimage/Contents.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/monet/monet/Images.xcassets/Chat/Contents.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/monet/monet/Images.xcassets/Chat/BubbleOthers.imageset/bg_show_chats_class_dialogue_pages_normal_other@2x.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/monet/monet/Images.xcassets/Chat/BubbleOthers.imageset/bg_show_chats_class_dialogue_pages_normal_other@3x.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/monet/monet/Images.xcassets/Chat/BubbleMyself.imageset/bg_show_chats_class_dialogue_pages_normal@2x.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/monet/monet/Images.xcassets/Chat/BubbleMyself.imageset/bg_show_chats_class_dialogue_pages_normal@3x.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/monet/monet/Images.xcassets/Chat/BubbleMyself.imageset/Contents.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/monet/monet/Images.xcassets/AppIcon.appiconset/Contents.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
