@@ -71,6 +71,18 @@
     return [[UIImage imageWithColor:DDYRGBA(235, 235, 235, 1) size:DDYSize(DDYSCREENW-30, 28)] imageCornerRadius:8];
 }
 
+- (void)setupTableView {
+    // 解决显示索引视图引起的搜索栏长度变短问题
+    UIView *searchBarView = [[UIView alloc] initWithFrame:CGRectMake(0, 0, DDYSCREENW, 44)];
+    [searchBarView addSubview:self.searchController.searchBar];
+    // 添加搜索控制器
+    self.tableView.tableHeaderView = searchBarView;
+    // 隐藏空白cell
+    self.tableView.tableFooterView = [UIView new];
+
+    self.tableView.separatorStyle = UITableViewCellSeparatorStyleNone;
+}
+
 - (void)viewDidLoad {
     [super viewDidLoad];
     [self setupTableView];
@@ -86,17 +98,7 @@
     _emptyLabel.hidden = YES;
 }
 
-- (void)setupTableView {
-    // 解决显示索引视图引起的搜索栏长度变短问题
-    UIView *searchBarView = [[UIView alloc] initWithFrame:CGRectMake(0, 0, DDYSCREENW, 44)];
-    [searchBarView addSubview:self.searchController.searchBar];
-    // 添加搜索控制器
-    self.tableView.tableHeaderView = searchBarView;
-    // 隐藏空白cell
-    self.tableView.tableFooterView = [UIView new];
 
-    self.tableView.separatorStyle = UITableViewCellSeparatorStyleNone;
-}
 
 //#pragma mark - DataSource
 //- (NSInteger)numberOfSectionsInTableView:(UITableView *)tableView {
@@ -134,6 +136,14 @@
     return cell;
 }
 
+
+
+#pragma mark TableViewDelegate
+
+- (CGFloat)tableView:(UITableView *)tableView heightForRowAtIndexPath:(NSIndexPath *)indexPath {
+    return 40;
+}
+
 #pragma mark 代理方法改变headerfooter颜色
 - (void)tableView:(UITableView *)tableView willDisplayHeaderView:(UIView *)view forSection:(NSInteger)section
 {
@@ -143,12 +153,6 @@
         header.textLabel.textColor = FF_MAIN_COLOR;
         header.contentView.backgroundColor = DDYRGBA(235, 235, 235, 1);
     }
-}
-
-#pragma mark TableViewDelegate
-
-- (CGFloat)tableView:(UITableView *)tableView heightForRowAtIndexPath:(NSIndexPath *)indexPath {
-    return 40;
 }
 
 - (void)tableView:(UITableView *)tableView didSelectRowAtIndexPath:(NSIndexPath *)indexPath {
