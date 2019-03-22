@@ -10,11 +10,12 @@
 
 @interface FFXMPPManager ()
 
-@property (nonatomic, strong) XMPPStream *stream;
-@property (nonatomic, strong) FFXMPPReconnect *reconnect;
 @property (nonatomic, strong) FFUser *user;
 @property (nonatomic, strong) NSMutableDictionary * sendingMessage;
 @property (nonatomic, strong) NSMutableDictionary * callbackingMessage;
+@property (nonatomic, strong) XMPPStream *stream;
+@property (nonatomic, strong) FFXMPPReconnect *reconnect;
+
 
 @end
 
@@ -35,11 +36,13 @@ static FFXMPPManager *_instance;
     return _instance;
 }
 
-- (id)copyWithZone:(NSZone *)zone {
+
+
+- (id)mutableCopyWithZone:(NSZone *)zone {
     return _instance;
 }
 
-- (id)mutableCopyWithZone:(NSZone *)zone {
+- (id)copyWithZone:(NSZone *)zone {
     return _instance;
 }
 
