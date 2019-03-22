@@ -28,15 +28,17 @@ static NSString *const FFChatTempPath       = @"/FFChat/Temp/";
     }
 }
 
+#pragma mark 移动
++ (BOOL)moveItemAtPath:(NSString *)path toPath:(NSString *)toPath error:(NSError **)error {
+    return [DDYFileManager moveItemAtPath:path toPath:toPath error:error];
+}
+
 #pragma mark 删除
 + (BOOL)removeItemAtPath:(NSString *)path error:(NSError **)error {
     return [DDYFileManager removeItemAtPath:path error:error];
 }
 
-#pragma mark 移动
-+ (BOOL)moveItemAtPath:(NSString *)path toPath:(NSString *)toPath error:(NSError **)error {
-    return [DDYFileManager moveItemAtPath:path toPath:toPath error:error];
-}
+
 
 #pragma mark 复制
 + (BOOL)copyItemAtPath:(NSString *)path toPath:(NSString *)toPath error:(NSError **)error {

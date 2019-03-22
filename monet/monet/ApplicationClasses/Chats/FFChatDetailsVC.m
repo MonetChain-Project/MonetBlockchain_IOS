@@ -69,6 +69,27 @@
     [self requestMaskUser:status];
 }
 
+-(void)requestMaskUserState
+{
+    NSDictionary * params = @{
+                              @"masklocalid":self.localID
+                              };
+    [NANetWorkRequest na_postDataWithService:@"message" action:@"get_mask_user" parameters:params results:^(BOOL status, NSDictionary *result) {
+        if (status) {
+            
+            NSDictionary * data = [result objectForKey:@"data"];
+            [_switchBtn setOn:[[data objectForKey:@"status"] boolValue] ? YES : NO];
+            
+            NSLog(@"屏蔽状态请求成功!");
+        }
+        else
+        {
+            [self showErrorText:@"网络异常"];
+            NSLog(@"网络异常");
+        }
+    }];
+}
+
 -(void)requestMaskUser:(NSInteger)status
 {
     [FFLocalUserInfo LCInstance].isSignUp = YES;
@@ -102,25 +123,6 @@
     }];
 }
 
--(void)requestMaskUserState
-{
-    NSDictionary * params = @{
-                              @"masklocalid":self.localID
-                              };
-    [NANetWorkRequest na_postDataWithService:@"message" action:@"get_mask_user" parameters:params results:^(BOOL status, NSDictionary *result) {
-        if (status) {
-            
-            NSDictionary * data = [result objectForKey:@"data"];
-            [_switchBtn setOn:[[data objectForKey:@"status"] boolValue] ? YES : NO];
-            
-            NSLog(@"屏蔽状态请求成功!");
-        }
-        else
-        {
-            [self showErrorText:@"网络异常"];
-            NSLog(@"网络异常");
-        }
-    }];
-}
+
 
 @end

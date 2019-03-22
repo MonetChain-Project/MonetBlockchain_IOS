@@ -91,6 +91,21 @@
     [KxMenu showMenuInView:([UIApplication sharedApplication].keyWindow) fromRect:frame menuItems:menuArray withOptions:options];
 }
 
+- (void)registerView
+{
+    _header = [[UIView alloc] initWithFrame:LC_RECT(0, 0, DDYSCREENW, 50)];
+    _header.backgroundColor = APP_MAIN_COLOR;
+    [_header addTapTarget:self action:@selector(headerAction)];
+    self.tableView.tableHeaderView = _header;
+    
+    UILabel * tipsLabel = [[UILabel alloc] initWithFrame:CGRectMake(20, 0, DDYSCREENW - 40, 50)];
+    tipsLabel.text = @"为了账户安全请填写FID,以保证正常登录";
+    tipsLabel.font = NA_FONT(14);
+    tipsLabel.textColor = LC_RGB(51, 51, 51);
+    [_header addSubview:tipsLabel];
+
+}
+
 - (void)pushMenuItem:(KxMenuItem *)sender
 {
     if ([sender.title isEqualToString:@"Add buddy"])
@@ -107,20 +122,7 @@
 }
 
 
-- (void)registerView
-{
-    _header = [[UIView alloc] initWithFrame:LC_RECT(0, 0, DDYSCREENW, 50)];
-    _header.backgroundColor = APP_MAIN_COLOR;
-    [_header addTapTarget:self action:@selector(headerAction)];
-    self.tableView.tableHeaderView = _header;
-    
-    UILabel * tipsLabel = [[UILabel alloc] initWithFrame:CGRectMake(20, 0, DDYSCREENW - 40, 50)];
-    tipsLabel.text = @"为了账户安全请填写FID,以保证正常登录";
-    tipsLabel.font = NA_FONT(14);
-    tipsLabel.textColor = LC_RGB(51, 51, 51);
-    [_header addSubview:tipsLabel];
 
-}
 
 - (void)headerAction
 {
